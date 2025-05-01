@@ -1,4 +1,4 @@
-# 📁 Projetos da Imersão Dev Alura 2025
+# 📁 Projetos Imersão Dev Alura 2025
 
 Programas simples realizados durante a **Imersão Dev Alura 2025**.  
 Primeiro contato com a linguagem **JavaScript**.
