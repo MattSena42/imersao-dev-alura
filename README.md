@@ -5,6 +5,16 @@ Primeiro contato com a linguagem **JavaScript**.
 
 ---
 
+## 📌 Funcionalidades
+
+- ✅ Conversor de Wons
+- ✅ Jokenpô
+- ✅ Campo Minado
+- ✅ Batalha Jedi
+- ✅ Quiz Superemo
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 - HTML  
@@ -26,16 +36,6 @@ Primeiro contato com a linguagem **JavaScript**.
    ```
 
 3. Abra o arquivo `index.html` no navegador.
-
----
-
-## 🧠 Funcionalidades
-
-- ✅ Conversor de Wons
-- ✅ Jokenpô
-- ✅ Campo Minado
-- ✅ Batalha Jedi
-- ✅ Quiz Superemo
 
 ---
 
